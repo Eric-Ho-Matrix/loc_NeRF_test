@@ -1,0 +1,384 @@
+[INFO] Trainer: ngp | 2023-07-25_11-30-42 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-31-44 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-33-22 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-34-43 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-35-52 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-48-38 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-51-01 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_11-58-58 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_12-00-07 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-41-38 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-42-31 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-47-12 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-48-01 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-48-34 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-50-11 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_13-59-55 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-02-11 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-05-23 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-10-29 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-21-37 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-24-36 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-29-51 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-33-32 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_14-37-35 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-06-47 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-07-13 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-12-13 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-14-13 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-16-03 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-18-06 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-22-50 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-25-16 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-25-46 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-25-59 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-26-25 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-28-06 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_15-30-20 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-06-35 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-07-41 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-20-28 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-34-04 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-36-46 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-40-04 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-41-16 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-43-14 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-54-57 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-58-41 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_16-59-30 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_17-01-13 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_17-07-22 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_17-12-12 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-12-14 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-13-56 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-15-59 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-23-10 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-29-39 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-32-32 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-40-35 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-48-43 | cuda | fp32 | stone_nerf
+[INFO] #parameters: 12610160
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_20-49-24 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_22-37-25 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_23-17-25 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_23-27-09 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-25_23-33-51 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-26_00-40-32 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-26_00-43-01 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_00-28-28 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_00-29-03 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_00-55-39 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_00-55-50 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_00-57-34 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_01-03-10 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-37-34 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-39-33 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-41-41 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-42-51 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-44-25 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_09-46-09 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_13-33-36 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_14-08-07 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_14-09-52 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_14-12-07 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_19-46-32 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_19-48-26 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_19-49-07 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-07-29_19-49-42 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_10-52-06 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_11-56-46 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-00-50 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-02-41 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-03-44 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-05-06 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-06-45 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-16-57 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-19-58 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-08-02_12-38-07 | cuda | fp16 | stone_nerf
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
